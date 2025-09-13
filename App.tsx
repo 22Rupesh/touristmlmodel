@@ -31,7 +31,7 @@ const App: React.FC = () => {
       <div className="w-full max-w-7xl mx-auto">
         <header className="text-center mb-6">
           <h1 className="text-4xl sm:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-            Mumbai Safety Zones
+            Safety Zones
           </h1>
           <p className="mt-2 text-lg text-gray-300">
             Visualizing Women's Safety Hotspots by Time of Day
