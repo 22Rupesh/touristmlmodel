@@ -1,0 +1,5 @@
+{
+  "name": "Mumbai Women's Safety Zone Map",
+  "description": "An interactive map visualizing women's safety zones in Mumbai based on time of day. It uses a simulated K-Means clustering model to identify high, medium, and low-risk areas, which change dynamically as you adjust the time slider.",
+  "requestFramePermissions": []
+}
